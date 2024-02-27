@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Anton&family=Hind:wght@300;400;500;600;700&family=Lobster&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.contanier{
+    border-radius: 3%;
+    width: 1100px;
+    height: 700px;
+    background: linear-gradient(to right, #000000 0%, #000000 40%, #DEDEDE 40%, #DEDEDE 100%);
+    border: 1px solid rgb(156, 22, 22);
+    box-shadow: 0 7px 10px 0 rgb(156, 22, 22);
+}
+
+.contanier h1{
+    color: #DEDEDE;
+    font-family: "Oswald", sans-serif;
+    font-size: 80px;
+    margin-left: 9%;
+    margin-top: 14%;
+}
+
+.img-login{
+    margin-left: 9.2%;
+}
